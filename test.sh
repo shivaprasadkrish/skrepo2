@@ -1,1 +1,4 @@
-Test
+#!/bin/bash
+
+echo "Test"
+echo "EOF"
